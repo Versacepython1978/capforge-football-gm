@@ -1,11 +1,12 @@
 [
   {
-    "iden": 1,
+    "iden": "1",
     "forename": "Example",
     "surname": "Quarterback",
     "tid": 0,
     "position": "QB",
     "jerseyNumber": 12,
+    "progressionCurve": "normal",
     "ratings": {
       "hgt": 75,
       "stre": 60,
@@ -38,12 +39,13 @@
     }
   },
   {
-    "iden": 2,
+    "iden": "2",
     "forename": "Sample",
     "surname": "Receiver",
     "tid": 0,
     "position": "WR",
     "jerseyNumber": 10,
+    "progressionCurve": "normal",
     "ratings": {
       "hgt": 70,
       "stre": 55,
