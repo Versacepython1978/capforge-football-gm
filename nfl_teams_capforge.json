@@ -1,0 +1,226 @@
+[
+  {
+    "tid": 0,
+    "region": "Arizona",
+    "name": "Cardinals",
+    "abbrev": "ARI",
+    "colors": ["#97233F", "#000000", "#FFB612"]
+  },
+  {
+    "tid": 1,
+    "region": "Atlanta",
+    "name": "Falcons",
+    "abbrev": "ATL",
+    "colors": ["#A71930", "#000000", "#A5ACAF"]
+  },
+  {
+    "tid": 2,
+    "region": "Baltimore",
+    "name": "Ravens",
+    "abbrev": "BAL",
+    "colors": ["#241773", "#000000", "#9E7C0C"]
+  },
+  {
+    "tid": 3,
+    "region": "Buffalo",
+    "name": "Bills",
+    "abbrev": "BUF",
+    "colors": ["#00338D", "#C60C30", "#FFFFFF"]
+  },
+  {
+    "tid": 4,
+    "region": "Carolina",
+    "name": "Panthers",
+    "abbrev": "CAR",
+    "colors": ["#0085CA", "#101820", "#BFC0BF"]
+  },
+  {
+    "tid": 5,
+    "region": "Chicago",
+    "name": "Bears",
+    "abbrev": "CHI",
+    "colors": ["#0B162A", "#C83803", "#FFFFFF"]
+  },
+  {
+    "tid": 6,
+    "region": "Cincinnati",
+    "name": "Bengals",
+    "abbrev": "CIN",
+    "colors": ["#FB4F14", "#000000", "#FFFFFF"]
+  },
+  {
+    "tid": 7,
+    "region": "Cleveland",
+    "name": "Browns",
+    "abbrev": "CLE",
+    "colors": ["#311D00", "#FF3C00", "#FFFFFF"]
+  },
+  {
+    "tid": 8,
+    "region": "Dallas",
+    "name": "Cowboys",
+    "abbrev": "DAL",
+    "colors": ["#003594", "#869397", "#FFFFFF"]
+  },
+  {
+    "tid": 9,
+    "region": "Denver",
+    "name": "Broncos",
+    "abbrev": "DEN",
+    "colors": ["#FB4F14", "#002244", "#FFFFFF"]
+  },
+  {
+    "tid": 10,
+    "region": "Detroit",
+    "name": "Lions",
+    "abbrev": "DET",
+    "colors": ["#0076B6", "#B0B7BC", "#000000"]
+  },
+  {
+    "tid": 11,
+    "region": "Green Bay",
+    "name": "Packers",
+    "abbrev": "GB",
+    "colors": ["#203731", "#FFB612", "#FFFFFF"]
+  },
+  {
+    "tid": 12,
+    "region": "Houston",
+    "name": "Texans",
+    "abbrev": "HOU",
+    "colors": ["#03202F", "#A71930", "#FFFFFF"]
+  },
+  {
+    "tid": 13,
+    "region": "Indianapolis",
+    "name": "Colts",
+    "abbrev": "IND",
+    "colors": ["#002C5F", "#A2AAAD", "#FFFFFF"]
+  },
+  {
+    "tid": 14,
+    "region": "Jacksonville",
+    "name": "Jaguars",
+    "abbrev": "JAX",
+    "colors": ["#006778", "#D7A22A", "#9F792C"]
+  },
+  {
+    "tid": 15,
+    "region": "Kansas City",
+    "name": "Chiefs",
+    "abbrev": "KC",
+    "colors": ["#E31837", "#FFB81C", "#FFFFFF"]
+  },
+  {
+    "tid": 16,
+    "region": "Las Vegas",
+    "name": "Raiders",
+    "abbrev": "LV",
+    "colors": ["#000000", "#A5ACAF", "#FFFFFF"]
+  },
+  {
+    "tid": 17,
+    "region": "Los Angeles",
+    "name": "Chargers",
+    "abbrev": "LAC",
+    "colors": ["#0080C6", "#FFC20E", "#FFFFFF"]
+  },
+  {
+    "tid": 18,
+    "region": "Los Angeles",
+    "name": "Rams",
+    "abbrev": "LAR",
+    "colors": ["#003594", "#FFA300", "#FFD100"]
+  },
+  {
+    "tid": 19,
+    "region": "Miami",
+    "name": "Dolphins",
+    "abbrev": "MIA",
+    "colors": ["#008E97", "#FC4C02", "#005778"]
+  },
+  {
+    "tid": 20,
+    "region": "Minnesota",
+    "name": "Vikings",
+    "abbrev": "MIN",
+    "colors": ["#4F2683", "#FFC62F", "#FFFFFF"]
+  },
+  {
+    "tid": 21,
+    "region": "New England",
+    "name": "Patriots",
+    "abbrev": "NE",
+    "colors": ["#002244", "#C60C30", "#B0B7BC"]
+  },
+  {
+    "tid": 22,
+    "region": "New Orleans",
+    "name": "Saints",
+    "abbrev": "NO",
+    "colors": ["#D3BC8D", "#101820", "#FFFFFF"]
+  },
+  {
+    "tid": 23,
+    "region": "New York",
+    "name": "Giants",
+    "abbrev": "NYG",
+    "colors": ["#0B2265", "#A71930", "#A5ACAF"]
+  },
+  {
+    "tid": 24,
+    "region": "New York",
+    "name": "Jets",
+    "abbrev": "NYJ",
+    "colors": ["#125740", "#000000", "#FFFFFF"]
+  },
+  {
+    "tid": 25,
+    "region": "Philadelphia",
+    "name": "Eagles",
+    "abbrev": "PHI",
+    "colors": ["#004C54", "#A5ACAF", "#000000"]
+  },
+  {
+    "tid": 26,
+    "region": "Pittsburgh",
+    "name": "Steelers",
+    "abbrev": "PIT",
+    "colors": ["#FFB612", "#101820", "#FFFFFF"]
+  },
+  {
+    "tid": 27,
+    "region": "San Francisco",
+    "name": "49ers",
+    "abbrev": "SF",
+    "colors": ["#AA0000", "#B3995D", "#FFFFFF"]
+  },
+  {
+    "tid": 28,
+    "region": "Seattle",
+    "name": "Seahawks",
+    "abbrev": "SEA",
+    "colors": ["#002244", "#69BE28", "#A5ACAF"]
+  },
+  {
+    "tid": 29,
+    "region": "Tampa Bay",
+    "name": "Buccaneers",
+    "abbrev": "TB",
+    "colors": ["#D50A0A", "#FF7900", "#0A0A08"]
+  },
+  {
+    "tid": 30,
+    "region": "Tennessee",
+    "name": "Titans",
+    "abbrev": "TEN",
+    "colors": ["#0C2340", "#4B92DB", "#C8102E"]
+  },
+  {
+    "tid": 31,
+    "region": "Washington",
+    "name": "Commanders",
+    "abbrev": "WAS",
+    "colors": ["#5A1414", "#FFB612", "#FFFFFF"]
+  }
+]
