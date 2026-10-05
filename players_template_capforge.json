@@ -1,10 +1,11 @@
 [
   {
-    "firstName": "Example",
-    "lastName": "Quarterback",
+    "iden": 1,
+    "forename": "Example",
+    "surname": "Quarterback",
     "tid": 0,
-    "pos": "QB",
-    "jerseyNumber": "12",
+    "position": "QB",
+    "jerseyNumber": 12,
     "ratings": {
       "hgt": 75,
       "stre": 60,
@@ -37,11 +38,12 @@
     }
   },
   {
-    "firstName": "Sample",
-    "lastName": "Receiver",
+    "iden": 2,
+    "forename": "Sample",
+    "surname": "Receiver",
     "tid": 0,
-    "pos": "WR",
-    "jerseyNumber": "10",
+    "position": "WR",
+    "jerseyNumber": 10,
     "ratings": {
       "hgt": 70,
       "stre": 55,
