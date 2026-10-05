@@ -1,0 +1,76 @@
+[
+  {
+    "firstName": "Example",
+    "lastName": "Quarterback",
+    "tid": 0,
+    "pos": "QB",
+    "jerseyNumber": "12",
+    "ratings": {
+      "hgt": 75,
+      "stre": 60,
+      "spd": 70,
+      "endu": 80,
+      "thv": 85,
+      "thp": 88,
+      "tha": 90,
+      "bsc": 75,
+      "elu": 65,
+      "rtr": 70,
+      "hnd": 60,
+      "rbk": 40,
+      "pbk": 45,
+      "pcv": 30,
+      "tck": 25,
+      "prs": 20,
+      "rns": 25,
+      "kpw": 20,
+      "kac": 20,
+      "ppw": 20,
+      "pac": 20
+    },
+    "born": {
+      "year": 1998
+    },
+    "contract": {
+      "amount": 45000000,
+      "exp": 2028
+    }
+  },
+  {
+    "firstName": "Sample",
+    "lastName": "Receiver",
+    "tid": 0,
+    "pos": "WR",
+    "jerseyNumber": "10",
+    "ratings": {
+      "hgt": 70,
+      "stre": 55,
+      "spd": 90,
+      "endu": 75,
+      "thv": 30,
+      "thp": 25,
+      "tha": 30,
+      "bsc": 70,
+      "elu": 85,
+      "rtr": 88,
+      "hnd": 92,
+      "rbk": 40,
+      "pbk": 35,
+      "pcv": 40,
+      "tck": 30,
+      "prs": 20,
+      "rns": 25,
+      "kpw": 15,
+      "kac": 15,
+      "ppw": 15,
+      "pac": 15
+    },
+    "born": {
+      "year": 2001
+    },
+    "contract": {
+      "amount": 18000000,
+      "exp": 2027
+    }
+  }
+]
